@@ -1,0 +1,35 @@
+{
+  "name": "cours-angular-5al2",
+  "version": "1.0.0",
+  "description": "TP Pokémon du cours 'Angular'",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fectorez/Cours-Angular-5AL2.git"
+  },
+  "keywords": [
+    "JS",
+    "Angular",
+    "NPM",
+    "Node"
+  ],
+  "author": "Jérémie ROLAND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fectorez/Cours-Angular-5AL2/issues"
+  },
+  "homepage": "https://github.com/Fectorez/Cours-Angular-5AL2#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
+  }
+}
